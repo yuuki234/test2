@@ -5,7 +5,7 @@
   "entry_point": "index.scm",
   "description": "hogehoge",
   "devDependencies": {
-    "test5": ""
+    "test5": "https://github.com/yuuki234/test5.git"
   },
   "bin": "index.scm"
 }
